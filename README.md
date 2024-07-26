@@ -57,6 +57,8 @@ Provide Insights to the Marketing Team in Food & Beverage Industry
 
 -- respondents prefers portable cans 
 
+Report - https://app.powerbi.com/reportEmbed?reportId=dbf800c4-4424-4024-81ff-f5b2c46e11d9&autoAuth=true&ctid=5923f63e-a1c5-4dc7-a2ea-698b3963c12d
+
 ### Thank you for taking the time to review this project. For a comprehensive view, you can explore the entire project in my PBIX file.
 
 
